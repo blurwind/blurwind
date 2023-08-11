@@ -14,9 +14,10 @@ They used my Discord bot [Phishield](https://phishield.xyz), so I learned to wor
 - Currently conducting scam investigations for [The DSP Project](https://github.com/Discord-AntiScam) - June 2023 to now (100+ stars and 24k+ links).
 - Previously developer and owner of the Discord bot [Phishield](https://phishield.xyz) - April 2023 to August 2023 (250+ servers for 700k+ users)
 
+# Reach Me
+- You can contact me via Discord: [arceusxx](https://discord.com/users/1055478076013817936) and for professional enquiries to [contact.umbrella@proton.me](mailto:contact.umbrella@proton.me)
+
+
 <p align="center">
   <img src="https://pfps.gg/assets/banners/5987-shooting-stars-8-bit.gif">
 </p>
-
-# Reach Me
-- You can contact me via Discord: [arceusxx](https://discord.com/users/1055478076013817936) and for professional enquiries to [contact.umbrella@proton.me](mailto:contact.umbrella@proton.me)

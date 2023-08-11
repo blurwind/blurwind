@@ -14,3 +14,5 @@ They used my Discord bot [Phishield](https://phishield.xyz), so I learned to wor
 - Currently conducting scam investigations for [The DSP Project](https://github.com/Discord-AntiScam) - June 2023 to now (100+ stars and 24k+ links).
 - Previously developer and owner of the Discord bot [Phishield](https://phishield.xyz) - April 2023 to August 2023 (250+ servers for 700k+ users)
 
+
+![5987-shooting-stars-8-bit](https://github.com/arceusxx/arceusxx/assets/96443442/b14a70ce-9068-4727-b9d7-08b6f34cfecb)

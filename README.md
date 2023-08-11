@@ -17,3 +17,6 @@ They used my Discord bot [Phishield](https://phishield.xyz), so I learned to wor
 <p align="center">
   <img src="https://pfps.gg/assets/banners/5987-shooting-stars-8-bit.gif">
 </p>
+
+# Reach Me
+- You can contact me via Discord: [arceusxx](https://discord.com/users/1055478076013817936) and for professional enquiries to [contact.umbrella@proton.me](mailto:contact.umbrella@proton.me)

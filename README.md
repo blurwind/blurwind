@@ -9,7 +9,7 @@ I'm also open to teamwork, and have gained experience with the [Polyhedra Networ
 They used my Discord bot [Phishield](https://phishield.xyz), so I learned to work hand-in-hand with their teams to develop features dedicated to their platforms for months, and they were satisfied with my work.
 
 # What am I doing at the moment?
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1055478076013817936)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1055478076013817936)]
 
 # What I'm working on / have worked on 
 - Currently developer and owner of the Discord bot [Daily Music](https://discord.com/application-directory/1115972980984516719) - June 2023 to now (150+ servers).

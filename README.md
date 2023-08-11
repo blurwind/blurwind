@@ -1,5 +1,5 @@
 # About Me
-I'm arceus, a developer who dabbles in a bit of everything.
+A developer who dabbles in a bit of everything.
 
 I mainly code applications for the [Discord](https://discord.com/) social network, but I also have external knowledge in [Python](https://www.python.org/), [Javascript](http://www.ecmascript.org/), [web languages](https://html.spec.whatwg.org/)...                                                                              
 What I love most about development is coming up with something that's functional, user-friendly and useful at the same time.                                                                                            

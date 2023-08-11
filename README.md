@@ -15,5 +15,5 @@ They used my Discord bot [Phishield](https://phishield.xyz), so I learned to wor
 - Previously developer and owner of the Discord bot [Phishield](https://phishield.xyz) - April 2023 to August 2023 (250+ servers for 700k+ users)
 
 <p align="center">
-  <img width="460" height="300" src="https://pfps.gg/assets/banners/5987-shooting-stars-8-bit.gif">
+  <img src="https://pfps.gg/assets/banners/5987-shooting-stars-8-bit.gif">
 </p>

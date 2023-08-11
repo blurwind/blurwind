@@ -1,10 +1,8 @@
 # About Me
 I'm arceus, a developer who dabbles in a bit of everything.
 
-I mainly develop applications for the Discord social network, but I also have external knowledge in Python, Javascript, web languages...
-
-What I love most about development is coming up with something that's functional, user-friendly and useful at the same time.
-
+I mainly develop applications for the Discord social network, but I also have external knowledge in Python, Javascript, web languages...                                                                              
+What I love most about development is coming up with something that's functional, user-friendly and useful at the same time.                                                                                            
 I'm currently focusing on the development of APIS.
 
 I'm also open to teamwork, and have gained experience with the [Polyhedra Network](https://polyhedra.network) platform.                                                                                                

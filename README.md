@@ -11,6 +11,6 @@ They used my Discord bot [Phishield](https://phishield.xyz), so I learned to wor
 # What I'm working on / have worked on 
 - Currently developer and owner of the Discord bot [Daily Music](https://discord.com/application-directory/1115972980984516719) - June 2023 to now (150+ servers).
 - Currently working on searching bugs at [Bridge](https://discord.gg/WDTcBRNVPB) - July 2023 to now (100 servers).
-- Currently conducting scam investigations for [The DSP Project](https://github.com/Discord-AntiScam) - June 2023 to now (100+ stars and 24k+ scam links).
+- Currently conducting scam investigations for [The DSP Project](https://github.com/Discord-AntiScam) - June 2023 to now (100+ stars and 24k+ links).
 - Previously developer and owner of the Discord bot [Phishield](https://phishield.xyz) - April 2023 to August 2023 (250+ servers for 700k+ users)
 

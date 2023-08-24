@@ -23,5 +23,5 @@ They used my Discord bot [Phishield](https://phishield.xyz), so I learned to wor
 
 
 <p align="center">
-  <img src="[https://i.imgur.com/fMobdC3.jpg](https://i.imgur.com/fMobdC3.jpg)">
+  <img src="[https://i.imgur.com/0BM8EqE.jpeg](https://i.imgur.com/0BM8EqE.jpeg)">
 </p>

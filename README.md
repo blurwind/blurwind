@@ -13,10 +13,10 @@ They used my Discord bot [Phishield](https://phishield.xyz), so I learned to wor
 ![Discord Presence](https://lanyard.cnrad.dev/api/1055478076013817936)
 
 # What I'm working on / have worked on 
-- Currently developer and owner of the Discord bot [Daily Music](https://discord.com/application-directory/1115972980984516719) - June 2023 to now (150+ servers).
-- Currently working on searching bugs at [Bridge](https://discord.com/api/oauth2/authorize?client_id=1072798665749561365&permissions=139653934273&scope=bot%20applications.commands) - July 2023 to now (100 servers).
+- Currently developer and owner of the Discord bot [Daily Music](https://discord.com/application-directory/1115972980984516719) (Onze Development) - June 2023 to now (170+ servers).
+- Currently working on searching bugs at [Bridge](https://discord.com/api/oauth2/authorize?client_id=1072798665749561365&permissions=139653934273&scope=bot%20applications.commands) (Void Development) - July 2023 to now (100 servers).
 - Currently conducting scam investigations for [The DSP Project](https://github.com/Discord-AntiScam) - June 2023 to now (100+ stars and 24k+ links).
-- Previously developer and owner of the Discord bot [Phishield](https://phishield.xyz) - April 2023 to August 2023 (250+ servers for 700k+ users)
+- Previously developer and owner of the Discord bot [Phishield](https://phishield.xyz) (Hushein) - April 2023 to August 2023 (260+ servers for 700k+ users)
 
 # Reach Me
 - You can contact me [via Discord](https://discord.com/users/1055478076013817936) and for professional enquiries, send an e-mail to [onze-development@proton.me](mailto:onze-development@proton.me)

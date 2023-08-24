@@ -20,8 +20,3 @@ They used my Discord bot [Phishield](https://phishield.xyz), so I learned to wor
 
 # Reach Me
 - You can contact me [via Discord](https://discord.com/users/1055478076013817936) and for professional enquiries, send an e-mail to [onze-development@proton.me](mailto:onze-development@proton.me)
-
-
-<p align="center">
-  <img src="[https://i.imgur.com/0BM8EqE.jpeg](https://i.imgur.com/0BM8EqE.jpeg)">
-</p>

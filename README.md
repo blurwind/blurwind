@@ -1,4 +1,4 @@
-# About Me
+#  About Me
 A developer who dabbles in a bit of everything.                                                                                                                                                                        
 Most of my projects are **private**.
 
@@ -9,15 +9,15 @@ I'm currently focusing on the development of APIS.
 I'm also open to teamwork, and have gained experience with the [Polyhedra Network](https://polyhedra.network) platform, which is very popular in the WEB3 world.                                                                                                
 They used my Discord bot [Phishield](https://phishield.xyz), so I learned to work hand-in-hand with their teams to develop features dedicated to their platforms for months, and they were satisfied with my work.
 
-# What am I doing at the moment?
+#  What am I doing at the moment?
 ![Discord Presence](https://lanyard.cnrad.dev/api/1055478076013817936)
 
-# What I'm working on / have worked on 
+#  What I'm working on / have worked on 
 - Currently developer and owner of the Discord bot [Daily Music](https://discord.com/application-directory/1115972980984516719) (Onze Development) - June 2023 to now (200+ servers).
 - Currently developer and owner of the website [AutomodRx](https://automodrx.xyz) (Onze Development) - August 2023 to now.
 - Currently working on searching bugs at [Bridge](https://discord.com/api/oauth2/authorize?client_id=1072798665749561365&permissions=139653934273&scope=bot%20applications.commands) (Void Development) - July 2023 to now (100 servers).
 - Currently conducting scam investigations for [The DSP Project](https://github.com/Discord-AntiScam) - June 2023 to now (100+ stars and 24k+ links).
 - Previously developer and owner of the Discord bot [Phishield](https://phishield.xyz) (HUSHEIN) - April 2023 to August 2023 (260+ servers for 700k+ users)
 
-# Reach Me
+#  Reach Me
 - You can contact me [via Discord](https://discord.com/users/1055478076013817936) and for professional enquiries, send an e-mail to [onze-development@proton.me](mailto:onze-development@proton.me)

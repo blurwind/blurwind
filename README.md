@@ -1,22 +1,19 @@
 #  About Me
-A developer who dabbles in a bit of everything.                                                                                                                                                                        
-Most of my projects are **private**.
+I'm arceus, a developer who lives in Canada and dabbles in a bit of everything.                                                                                                                                                                                 
+Most of my projects on GitHub are private, but sometimes I contribute to projects of my friends or projects that I find cool :)
 
-I mainly code applications for the [Discord](https://discord.com/) social network, but I also have external knowledge in [Python](https://www.python.org/), [Javascript](http://www.ecmascript.org/), [web languages](https://html.spec.whatwg.org/)...                                                                              
-What I love most about development is coming up with something that's functional, user-friendly and useful at the same time.                                                                                            
-I also do some design work with **Figma**.
+I mainly code bots on [Discord](https://discord.com) using [discord.js](https://discord.js.org/). I also have skills in other programming languages and libraries, but I mainly use Javascript.
 
-I'm also open to teamwork, and have gained experience with the [Polyhedra Network](https://polyhedra.network) platform, which is very popular in the WEB3 world.                                                                                                
-They used my Discord bot **Phishield**, so I learned to work hand-in-hand with their teams to develop features dedicated to their platforms for months, and they were satisfied with my work.
+# What I've done and my current projects
+I worked with the team at [Polyhedra](https://polyhedra.network), a platform in the WEB3 world.                                                                                                                                                                 
+They used my Discord bot Phishield to protect their server, so I worked with them to develop new features that were very useful.                                                                                                                                  
+I'm also the leader of my group, Onze Development, which serves as a "company" for my projects.                                                                                                                                                                      
 
-#  What am I doing at the moment?
-![Discord Presence](https://lanyard.cnrad.dev/api/1055478076013817936)
-
-#  What I'm working on / have worked on 
-- Currently developer and owner of the Discord bot [Daily Music](https://daily-music.xyz) (Onze Development) - June 2023 to now (390+ servers & 190k+ users).
-- Currently working on searching bugs at [Bridge](https://discord.com/api/oauth2/authorize?client_id=1072798665749561365&permissions=139653934273&scope=bot%20applications.commands) (Void Development) - July 2023 to now (100 servers).
-- Currently conducting scam investigations for [The DSP Project](https://github.com/Discord-AntiScam) - June 2023 to now (115+ stars and 24k+ links).
-- Previously developer and owner of the Discord bot Phishield - April 2023 to August 2023 (260+ servers & 700k+ users)
+Here's a list of the projects I've created and those to which I contribute:
+- [Daily Music](https://daily-music.xyz) : A Discord bot that sends new music to your server every day, in collaboration with the API of [Sattler Development](https://sattler.dev).
+- [Discord.Watch](https://discord.watch) : A ranking website for Discord bots & servers, I'm helping with the design of the V4 release.
+- [The DSP Project](https://github.com/Discord-AntiScam) : An organisation that fights against scams on Discord, I'm conducting scam investigations.
+- [Bridge](https://discord.com/api/oauth2/authorize?client_id=1072798665749561365&permissions=139653934273&scope=bot%20applications.commands) : A Discord bot that transmits your advertisement through other Discord servers, I look for bugs and help the devs.
 
 #  Reach Me
 - You can contact me [via Discord](https://discord.com/users/1055478076013817936) and for professional enquiries, send an e-mail to [onze-development@proton.me](mailto:onze-development@proton.me)

@@ -16,4 +16,4 @@ Here's a list of the projects I've created and those to which I contribute:
 - [Bridge](https://discord.com/api/oauth2/authorize?client_id=1072798665749561365&permissions=139653934273&scope=bot%20applications.commands) : A Discord bot that transmits your advertisement through other Discord servers, I look for bugs and help the devs.
 
 #  Reach Me
-- You can contact me [via Discord](https://discord.com/users/1055478076013817936) and for professional enquiries, send an e-mail to [onze-development@proton.me](mailto:onze-development@proton.me)
+- You can contact me [via Discord](https://discord.com/users/1055478076013817936). See you soon!

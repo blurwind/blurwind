@@ -5,8 +5,8 @@ Most of my projects on GitHub are private, but sometimes I contribute to project
 I mainly code bots on [Discord](https://discord.com) using [discord.js](https://discord.js.org/). I also have skills in other programming languages and libraries, but I mainly use Javascript.
 
 # What I've done and my current projects
-I worked with the team at [Polyhedra](https://polyhedra.network), a platform in the WEB3 world.                                                                                                                                                                 
-They used my Discord bot Phishield to protect their server, so I worked with them to develop new features that were very useful.                                                                                                                                  
+I worked with the team at [Polyhedra](https://polyhedra.network), one of the biggest platforms in the WEB3 world.                                                                                                                                                                 
+They used my Discord bot Phishield to protect their server (540K members), so I worked with them to develop new features that were very useful.                                                                                                                                  
 I'm also the leader of my group, Onze Development, which serves as a "company" for my projects.                                                                                                                                                                      
 
 Here's a list of the projects I've created and those to which I contribute:

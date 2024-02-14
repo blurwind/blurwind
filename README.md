@@ -7,7 +7,7 @@ I mainly code bots on [Discord](https://discord.com) using [discord.js](https://
 # What I've done and my current projects
 I worked with the team at [Polyhedra](https://polyhedra.network), one of the biggest platforms in the WEB3 world.                                                                                                                                                                 
 They used my Discord bot Phishield to protect their server (540K members), so I worked with them to develop new features that were very useful.                                                                                                                                  
-I'm also the leader of my group, Onze Development, which serves as a "company" for my projects.                                                                                                                                                                      
+I'm also the owner of my group, Onze Development, which serves as a "company" for my projects.                                                                                                                                                                      
 
 Here's a list of the projects I've created and those to which I contribute:
 - [Daily Music](https://daily-music.xyz) : A Discord bot that sends new music to your server every day, in collaboration with the API of [Sattler Development](https://sattler.dev).

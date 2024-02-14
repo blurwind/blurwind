@@ -1,6 +1,6 @@
 #  About Me
 I'm arceus, a developer who lives in Canada and dabbles in a bit of everything.                                                                                                                                                                                 
-Most of my projects on GitHub are private, but sometimes I contribute to projects of my friends or projects that I find cool :)
+Most of my projects on GitHub are private, but sometimes I contribute to projects of my friends or projects that I find cool (find them below ⬇️)
 
 I mainly code bots on [Discord](https://discord.com) using [discord.js](https://discord.js.org/). I also have skills in other programming languages and libraries, but I mainly use Javascript.
 

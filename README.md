@@ -15,5 +15,3 @@ Here's a list of the projects I've created and those to which I contribute:
 
 #  Reach Me
 - You can contact me [via Discord](https://discord.com/users/1055478076013817936). See you soon!
-
-![image](https://github.com/blurwind/blurwind/assets/96443442/3da615ed-8d37-48cc-8029-8c74cb899080)

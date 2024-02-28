@@ -4,7 +4,7 @@ Most of my projects on GitHub are private, but sometimes I contribute to project
 
 # What I've done and my current projects
 I worked with the team at [Polyhedra](https://polyhedra.network), one of the biggest platforms in the WEB3 world.                                                                                                                                                                 
-They used my Discord bot Phishield to protect their server (540K members), I worked with them to develop new and specific features that were very useful.                                                                                                                                  
+They used my Discord bot Phishield to protect their server, I worked with them to develop new and specific features that were very useful.                                                                                                                                  
 I'm also the owner of my group, Onze Development, which serves as a "company" for my projects.                                                                                                                                                                      
 
 Here's a list of the projects I've created and those to which I contribute:

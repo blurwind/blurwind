@@ -8,8 +8,8 @@ They used my Discord bot Phishield to protect their server, I worked with them t
 I'm also the owner of my group, Onze Development, which serves as a "company" for my projects.                                                                                                                                                                      
 
 Here's a list of the projects I've created and those to which I contribute:
-- [Daily Music](https://daily-music.xyz) : A Discord bot that sends new music to your server every day, using the API of [Sattler Development](https://sattler.dev).
-- [Discord.Watch](https://discord.watch) : A ranking website for Discord bots & servers, I'm helping with the design of the V4 release.
+- [Daily Music](https://daily-music.xyz) : A Discord bot that sends new music to your server every day, my main project.
+- [Discord.Watch](https://discord.watch) : A ranking website for Discord bots & servers, I'm helping with the creation of the V4 release.
 - [The DSP Project](https://github.com/Discord-AntiScam) : An organisation that fights against scams on Discord, I'm conducting scam investigations.
 - [Bridge](https://discord.com/api/oauth2/authorize?client_id=1072798665749561365&permissions=139653934273&scope=bot%20applications.commands) : A Discord bot that transmits your advertisement through other Discord servers, I look for bugs and help the devs.
 
